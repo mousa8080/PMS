@@ -1,0 +1,10 @@
+[
+    {
+        "id": "prod_2",
+        "name": "Special Item",
+        "price": 18,
+        "image": "https:\/\/dummyimage.com\/450x300\/dee2e6\/6c757d.jpg",
+        "quantity": 1,
+        "added_at": "2025-08-19 09:55:31"
+    }
+]

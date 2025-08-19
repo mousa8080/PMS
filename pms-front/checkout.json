@@ -1,0 +1,33 @@
+[
+    {
+        "order_id": "ORD-20250819-8F20FA",
+        "customer_info": {
+            "name": "Ahmed Mousa",
+            "email": "ahmedmousa010203@gmail.com",
+            "phone": "01013400976",
+            "shipping_address": "دماص",
+            "city": "القاهرة"
+        },
+        "items": [
+            {
+                "id": "prod_2",
+                "name": "Special Item",
+                "price": 18,
+                "image": "https:\/\/dummyimage.com\/450x300\/dee2e6\/6c757d.jpg",
+                "quantity": 1,
+                "added_at": "2025-08-19 09:51:08"
+            }
+        ],
+        "order_summary": {
+            "subtotal": 18,
+            "tax": 1.8,
+            "shipping": 10,
+            "total": 29.8
+        },
+        "payment_method": "cash_on_delivery",
+        "notes": "",
+        "status": "pending",
+        "order_date": "2025-08-19 09:55:20",
+        "ip_address": "::1"
+    }
+]
